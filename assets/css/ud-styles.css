@@ -13,7 +13,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap");
 :root {
   --font: "Inter", sans-serif;
-  --body-color: #637381;
+  --body-color: #f3f4fe;
   --heading-color: #212b36;
   --primary-color: #3056d3;
   --white: #ffffff;
@@ -1127,7 +1127,7 @@ p {
 .ud-single-testimonial .ud-testimonial-content p {
   font-size: 16px;
   line-height: 30px;
-  color: #637381;
+  color: #f3f4fe;
 }
 
 .ud-single-testimonial .ud-testimonial-info {
@@ -1507,7 +1507,8 @@ p {
 .ud-widget .ud-widget-desc {
   font-size: 15px;
   line-height: 24px;
-  color: #f3f4fe;
+  color: black;
+  /* color: #f3f4fe; */
   margin-bottom: 30px;
   max-width: 260px;
 }
@@ -1523,7 +1524,8 @@ p {
 
 .ud-widget .ud-widget-socials a {
   font-size: 16px;
-  color: #dddddd;
+  color: black;
+  /* color: #f3f4fe; */
   margin-right: 20px;
 }
 
@@ -1535,7 +1537,8 @@ p {
   font-weight: 600;
   font-size: 18px;
   margin-bottom: 35px;
-  color: var(--white);
+  color: black;
+  /* color: #f3f4fe; */
 }
 
 .ud-widget .ud-widget-links a {
@@ -1543,7 +1546,8 @@ p {
   margin-bottom: 12px;
   font-size: 15px;
   line-height: 30px;
-  color: #f3f4fe;
+  color: black;
+  /* color: #f3f4fe; */
 }
 
 .ud-widget .ud-widget-links a:hover {
@@ -1577,7 +1581,7 @@ p {
 
 .ud-footer-bottom {
   padding: 35px 0;
-  border-top: 1px solid rgba(136, 144, 164, 0.43);
+  /* border-top: 1px solid rgba(136, 144, 164, 0.43); */
 }
 
 .ud-footer-bottom .ud-footer-bottom-left {
@@ -1600,7 +1604,8 @@ p {
 .ud-footer-bottom .ud-footer-bottom-left a {
   font-weight: normal;
   font-size: 15px;
-  color: #f3f4fe;
+  color: black;
+  /* color: #f3f4fe; */
   margin-right: 30px;
   display: inline-block;
 }
@@ -1619,7 +1624,8 @@ p {
   text-align: right;
   font-weight: normal;
   font-size: 15px;
-  color: #f3f4fe;
+  color: black;
+  /* color: #f3f4fe; */
 }
 
 .ud-footer-bottom .ud-footer-bottom-right a {
