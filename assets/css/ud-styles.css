@@ -28,7 +28,7 @@ body {
 }
 
 #footerBlanco{
-  background-color: #f3f4fe;
+  background-color: #eceff7;
   color: #6c757d;
 }
 
@@ -733,7 +733,7 @@ p {
       -ms-flex-pack: center;
           justify-content: center;
   border-radius: 14px;
-  background: var(--primary-color);
+  background: #386ab0;
   font-size: 32px;
   color: var(--white);
   position: relative;
@@ -750,7 +750,7 @@ p {
   top: 0;
   left: 0;
   border-radius: 14px;
-  background: var(--primary-color);
+  background: #386ab0;
   opacity: 0.2;
   z-index: -1;
   -webkit-transform: rotate(23deg);
@@ -1004,7 +1004,7 @@ p {
 .ud-faq {
   padding-top: 120px;
   padding-bottom: 90px;
-  background: #f3f4fe;
+  background: #eceff7;
   position: relative;
   z-index: 1;
 }
@@ -1025,7 +1025,7 @@ p {
 
 .ud-single-faq {
   background: var(--white);
-  border: 1px solid #f3f4fe;
+  border: 1px solid #eceff7;
   -webkit-box-shadow: 0px 20px 95px rgba(201, 203, 204, 0.3);
           box-shadow: 0px 20px 95px rgba(201, 203, 204, 0.3);
   border-radius: 10px;
@@ -1333,7 +1333,7 @@ p {
   top: 0;
   left: 0;
   height: 50%;
-  background: #f3f4fe;
+  background: #eceff7;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
