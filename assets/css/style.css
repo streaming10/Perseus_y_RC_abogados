@@ -1,6 +1,25 @@
 
 body{
-    font-family:'Montserrat';
+    font-family:"Inter", sans-serif;
 }
 
-/* Roboto-serif */
+.ud-menu-scroll{
+    color: #6c757d !important;
+}
+
+#azulClarito{
+    color: #386ab0;
+}
+
+#azulOscuro{
+    color: #1b3964;
+}
+
+
+#grisOscuro{
+    color: #637381;
+}
+
+#grisClarito{
+    color: #ececec;
+}

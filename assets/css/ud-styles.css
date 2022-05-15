@@ -14,8 +14,8 @@
 :root {
   --font: "Inter", sans-serif;
   --body-color: #637381;
-  --heading-color: #212b36;
-  --primary-color: #3056d3;
+  --heading-color: #1b3964;
+  --primary-color: #eceff7;
   --white: #ffffff;
 }
 
@@ -29,6 +29,7 @@ body {
 
 #footerBlanco{
   background-color: #f3f4fe;
+  color: #6c757d;
 }
 
 * {
@@ -128,7 +129,7 @@ p {
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-  color: var(--body-color);
+  color: #6c757d;
   margin: 0px;
 }
 
@@ -156,7 +157,7 @@ p {
   z-index: 5;
   -webkit-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background: var(--primary-color);
+  background: #1b3964;
 }
 
 .ud-main-btn:hover {
@@ -182,7 +183,7 @@ p {
   width: 40px;
   height: 40px;
   line-height: 40px;
-  background: var(--primary-color);
+  background: #386ab0;
   -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
           box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
   text-align: center;
@@ -202,7 +203,7 @@ p {
 
 .back-to-top:hover {
   color: var(--white);
-  background: var(--heading-color);
+  background: #1b3964;
 }
 
 /* ===== Header CSS ===== */
@@ -533,7 +534,7 @@ p {
 }
 
 .ud-hero-content .ud-hero-title {
-  color: var(--white);
+  color: #1b3964;
   font-weight: 700;
   font-size: 45px;
   line-height: 60px;
@@ -685,7 +686,7 @@ p {
 .ud-section-title span {
   font-weight: 600;
   font-size: 18px;
-  color: var(--primary-color);
+  color: #386ab0;
   margin-bottom: 10px;
 }
 
@@ -1044,7 +1045,7 @@ p {
   background: transparent;
   font-weight: 600;
   font-size: 18px;
-  color: var(--heading-color);
+  color: #386ab0;
   opacity: 0.88;
   padding: 30px;
 }
@@ -1074,7 +1075,7 @@ p {
   height: 42px;
   background: rgba(48, 86, 211, 0.06);
   border-radius: 10px;
-  color: var(--primary-color);
+  color: #386ab0;
   margin-right: 24px;
 }
 
@@ -1089,6 +1090,7 @@ p {
 
 .ud-single-faq .ud-faq-body {
   padding: 0px 30px 40px 95px;
+  color: #637381;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px), (max-width: 767px) {
@@ -1131,7 +1133,7 @@ p {
 .ud-single-testimonial .ud-testimonial-content p {
   font-size: 16px;
   line-height: 30px;
-  color: #f3f4fe;
+  color: #637381;
 }
 
 .ud-single-testimonial .ud-testimonial-info {
@@ -1511,7 +1513,7 @@ p {
 .ud-widget .ud-widget-desc {
   font-size: 15px;
   line-height: 24px;
-  color: black;
+  color: #637381;
   /* color: #f3f4fe; */
   margin-bottom: 30px;
   max-width: 260px;
@@ -1528,7 +1530,7 @@ p {
 
 .ud-widget .ud-widget-socials a {
   font-size: 16px;
-  color: black;
+  color: #637381;
   /* color: #f3f4fe; */
   margin-right: 20px;
 }
@@ -1541,7 +1543,7 @@ p {
   font-weight: 600;
   font-size: 18px;
   margin-bottom: 35px;
-  color: black;
+  color: #1b3964;
   /* color: #f3f4fe; */
 }
 
@@ -1550,7 +1552,7 @@ p {
   margin-bottom: 12px;
   font-size: 15px;
   line-height: 30px;
-  color: black;
+  color: #637381;
   /* color: #f3f4fe; */
 }
 
@@ -1608,7 +1610,7 @@ p {
 .ud-footer-bottom .ud-footer-bottom-left a {
   font-weight: normal;
   font-size: 15px;
-  color: black;
+  color: #6c757d;
   /* color: #f3f4fe; */
   margin-right: 30px;
   display: inline-block;
