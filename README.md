@@ -1,25 +1,28 @@
-# Play - Free HTML Template for Startup, Apps and SaaS
+<link rel="canonical" href="https://perseusyrcabogados.com/" />
 
-Play is an open-source and free bootstrap 5 based HTML template created by the UIdeck team. It's a part of our new initiative to give back to the community and create some impactful open source projects.
+<p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
 
-This template is designed and developed in such a way so, that almost anyone can use it for almost any kind of website or landing pages such as SaaS, Startup, Business, Apps, Software and Agency, etc.
+# Perseus & RC Abogados A Coruña
 
-Play comes with all essential sections and elements a complete website needs, additionally, we also created some separate pages including blogs, login, 404, and some other essential pages from homepage sections.
+Es una firma especializada en delitos informáticos, reclamaciones civiles y asesoramiento jurídico a empresas. Caracterizado desde su creación por la vocación de los socios en sus respectivas áreas legales y dotados de una alta calidad técnico-jurídica. En nuestro despacho el compromiso, dedicación y seriedad son valores clave. 
 
-### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components (design)
-
-
-### [🚀 View Demo](https://preview.uideck.com/items/play-bootstrap/)
-
-### [⬇️ Download Now](https://links.uideck.com/play-bootstrap-download)
-
-[![playbootstrap-demo](https://uideck.com/wp-content/uploads/2021/09/play-bootstrap.jpg)](https://preview.uideck.com/items/play-bootstrap/)
+Asumimos un compromiso de seguimiento permanente en cada uno de nuestros casos, otorgando un valor añadido a nuestros clientes. Sabemos que ante problemas complejos debemos dar soluciones eficaces. Por eso, además de brindar nuestros servicios legales, disponemos de otros servicios especializados que complementan nuestra labor jurídica, para dar una respuesta integral y satisfactoria a los problemas de nuestros clientes.
 
 
+## [CONTACTO](https://perseusyrcabogados.com/contacto.html "CONTACTO")
 
-## 📃 License
-Play is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
+### Teléfono:
++34 661 099 122
 
-## 💙 Support
-You can always support this project by [Starring🌟 This Repository](https://github.com/uideck/play-bootstrap) 
-and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
+### Email:
+info@ perseusyrcabogados.com
+[Clave pública.](https://perseusyrcabogados.com/public-key.txt "Clave pública.")
+
+### Ubicación:
+Calle Torreiro, nº 13, 3ºC, 15001, A Coruña
+
+## [CONSULTAS ONLINE](https://perseusyrcabogados.com/consultas-juridicas-online.html "CONSULTAS ONLINE")
+
+**Siempre contigo cuando nos necesites.** Por eso hemos habilitado un completo servicio de consulta jurídica online con todas las garantías de seguridad y privacidad [ACCEDE YA](https://perseusyrcabogados.com/consultas-juridicas-online.html "CONSULTAS JURÍDICAS ONLINE")
+
+[PERSEUS & RC ABOGADOS](https://perseusyrcabogados.com "PERSEUS & RC ABOGADOS")
