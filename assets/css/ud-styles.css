@@ -502,7 +502,7 @@ p {
 
 .sticky .navbar-btn .ud-white-btn {
   background: var(--primary-color);
-  color: var(--white);
+  color: var(--heading-color);
 }
 
 .sticky .navbar-btn .ud-white-btn:hover {
