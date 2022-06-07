@@ -506,7 +506,7 @@ p {
 }
 
 .sticky .navbar-btn .ud-white-btn:hover {
-  background: var(--heading-color);
+  background: var(--primary-color);
 }
 
 /* ===== Hero CSS ===== */
