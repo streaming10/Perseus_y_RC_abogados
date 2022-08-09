@@ -17,6 +17,11 @@
   --heading-color: #1b3964;
   --primary-color: #eceff7;
   --white: #ffffff;
+  
+  --azulC: #386ab0;
+  --azulO: #1b3964;
+  --grisC: #ececec;
+  --grisO: #637381;
 }
 
 body {
@@ -492,11 +497,11 @@ p {
 }
 
 .sticky .navbar-btn .ud-main-btn.ud-login-btn {
-  color: var(--heading-color);
+  color: var(--azulO);
 }
 
 .sticky .navbar-btn .ud-main-btn.ud-login-btn:hover {
-  color: var(--primary-color);
+  color: var(--azulO);
   opacity: 1;
 }
 
@@ -781,7 +786,7 @@ p {
 
 .ud-single-feature .ud-feature-link {
   font-weight: 500;
-  color: var(--body-color);
+  color: var(--azulC);
 }
 
 .ud-single-feature .ud-feature-link:hover {
@@ -1557,7 +1562,7 @@ p {
 }
 
 .ud-widget .ud-widget-links a:hover {
-  color: var(--primary-color);
+  color: var(--azulC);
   padding-left: 10px;
 }
 
@@ -1623,7 +1628,7 @@ p {
 }
 
 .ud-footer-bottom .ud-footer-bottom-left a:hover {
-  color: var(--primary-color);
+  color: var(--azulC);
 }
 
 .ud-footer-bottom .ud-footer-bottom-right {
